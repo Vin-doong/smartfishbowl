@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=LlXx9yVfQ0k - vnc 화면설정
+https://blog.naver.com/tiled12/221791735227 - pcf8591 사용
+https://www.youtube.com/watch?v=kuJpdAf07WQ - Picamera 작동
+https://ddangeun.tistory.com/114 - 라즈베리파이 코드 자동실행
+https://abyz.me.uk/rpi/pigpio/index.html - gpio 라이브러리
+https://www.youtube.com/watch?v=CtF_Pu6yc5Y&list=PLgkpDfSY2BeydMQsOAeFR1gLqnYfg25IL&index=2 - 파이카메라 CCTV활용
+https://www.youtube.com/watch?v=0Va7LZX2Uq8 - 앱인벤터 예제
+https://www.flaticon.com/ - 앱 아이콘
+https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263885&dbt=NPAP - IoT 어항시스템 논문
+https://www.youtube.com/watch?v=j7LLVkPpQ78 - DS18B20(수온센서)
+https://m.blog.naver.com/since201109/221899399943 - HTTPHandler 예제

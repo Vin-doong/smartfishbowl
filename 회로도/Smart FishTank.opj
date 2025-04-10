@@ -1,0 +1,71 @@
+(ExpressProject "2313"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\2313.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (모터
+      (FullPartName "모터.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0"))
+    ("모터 드라이브"
+      (FullPartName "모터 드라이브.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0"))
+    ("여러 센서"
+      (FullPartName "여러 센서.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0"))
+    (LCD
+      (FullPartName "LCD.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0"))
+    ("ADC 컨버터"
+      (FullPartName "ADC 컨버터.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0"))
+    (센서
+      (FullPartName "센서.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0"))
+    (탁도센서
+      (FullPartName "탁도센서.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0"))
+    (RASE
+      (FullPartName "RASE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\RRRRRRRRRRRRRRRRRRRRRRR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"
+         "C:\Users\SangHyeon\Desktop\이거 졸업작품정리하는곳\회로도\2313.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 421"))
+      (Tab 0)))
+  (MPSSessionName "SangHyeon"))

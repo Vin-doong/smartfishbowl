@@ -1,0 +1,33 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (File ".\smart fishtank.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (servo
+      (FullPartName "servo.Normal")
+      (LibraryName
+         "C:\USERS\SANGHYEON\DESKTOP\졸작 아이디어\졸작족보\회로도 캐드파일\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources"
+         "C:\Users\SangHyeon\Desktop\이거 졸업작품정리하는곳\회로도\smart fishtank.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 361"))
+      (Tab 0)))
+  (MPSSessionName "SangHyeon"))

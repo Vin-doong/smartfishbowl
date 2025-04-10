@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>로그인 페이지</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+
+        .container {
+            width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            background-color: #f4f4f4;
+            border-radius: 5px;
+        }
+
+        #loginForm {
+            display: block;
+        }
+
+        #successMessage,
+        #errorMessage {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form id="loginForm">
+            <h2>로그인</h2>
+            <label for="username">사용자 이름:</label>
+            <input type="text" id="username" name="username" required><br><br>
+            <label for="password">비밀번호:</label>
+            <input type="password" id="password" name="password" required><br><br>
+            <button type="button" onclick="checkLogin()">로그인</button>
+        </form>
+        <div id="successMessage">
+            <h2>로그인 성공</h2>
+            <p>환영합니다! 로그인에 성공하셨습니다.</p>
+        </div>
+        <div id="errorMessage">
+            <h2>로그인 실패</h2>
+            <p>사용자 이름 또는 비밀번호가 잘못되었습니다. 다시 시도해주세요.</p>
+        </div>
+    </div>
+
+    <script>
+        function checkLogin() {
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+
+            // 실제로는 서버에서 사용자 검증을 수행해야 합니다.
+            // 여기에서는 간단한 예제를 위해 하드코딩한 사용자 정보를 사용합니다.
+            const validUsername = "1234";
+            const validPassword = "1234";
+
+            if (username === validUsername && password === validPassword) {
+                document.getElementById("loginForm").style.display = "none";
+                document.getElementById("successMessage").style.display = "block";
+            } else {
+                document.getElementById("errorMessage").style.display = "block";
+            }
+        }
+    </script>
+</body>
+</html>
